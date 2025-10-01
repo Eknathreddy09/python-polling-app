@@ -1,4 +1,4 @@
-from ubuntu
+from ubuntu:24.10
 
 # set work directory
 WORKDIR /usr/src/app
